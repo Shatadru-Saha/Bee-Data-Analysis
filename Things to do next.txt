@@ -1,0 +1,2 @@
+1) Verification of trajectory data --> compare animated video (animation.ipynb) with resequenced video data. Using days where less number of bees would be easier to do, e.g: Day 3.
+2) Verification of festooning algorithm --> Once we know the trajectory data is fine, we can generate animation of only the "festooning" bees (festoon.ipynb). Compare it with animation/ resequenced video of that day to confirm the algorithm is doing fine. Otherwise change the parameters.
