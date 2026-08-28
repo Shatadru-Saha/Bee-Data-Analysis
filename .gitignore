@@ -1,0 +1,29 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Generated data folders
+data2019/
+comb-contents-images2019/
+slices/
+
+# Generated media
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
